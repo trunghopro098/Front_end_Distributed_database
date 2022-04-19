@@ -1,0 +1,28 @@
+.wrapperUser{
+    .top{
+        width: 100%;
+        display: flex;
+        justify-content:flex-end;
+
+        
+    }
+    .tableUser{
+        
+        margin-top: 10px;
+    }
+    .titleUser{
+        display: flex;
+        flex-direction: row;
+        width:  100%;
+        justify-content: space-between;
+        align-items: center;
+    
+    }
+    .site-layout-background{
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: center;
+        margin-left: 10px;
+    }
+}

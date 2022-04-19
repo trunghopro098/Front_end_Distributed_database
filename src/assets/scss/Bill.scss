@@ -1,0 +1,35 @@
+
+.wrapperBill{
+    .top{
+        width: 100%;
+        display: flex;
+        justify-content: flex-end;
+    }
+    .tableBill{
+        margin-top: 10px;
+    }
+}
+.addBillDetail{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-content: center;
+    align-items: center;
+
+    .tableBillDetail{
+        display: flex;
+        width: 50%;
+        
+        justify-content: flex-start;
+
+        
+    }
+    .addtableBill{
+        display: flex;
+        width: 50%;
+        flex-direction: column;
+        justify-content: center;
+    
+        
+    }
+}
